@@ -50,3 +50,12 @@ generative AI systems and human-in-the-loop refinement.
 
 This project focuses on workflow design and AI system orchestration rather than
 model training or algorithm development.
+
+
+## Prompt Engineering
+
+The `prompts/` directory documents how generative AI systems were guided
+using structured prompts to produce narrative, voiceover, and visual outputs.
+
+The focus was on orchestration, constraint design, and human-in-the-loop
+refinement rather than model development.
